@@ -1,0 +1,11 @@
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\WeatherApi.exe
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\WeatherApi.dll
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\WeatherApi.deps.json
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\WeatherApi.runtimeconfig.json
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\WeatherApi.pdb
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed.tawfik\source\repos\WeatherApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
